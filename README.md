@@ -2,7 +2,7 @@
 - I am a undergraduate Computer Engineering Student at RIT
 - Currenty, I'm learinig Machine Learning.
 - 😄 My pronouns are she/her.
-- 📫 kanganmane16@gmail.com | Ruakdi, India
+- 📫 kanganmane16@gmail.com | Rukadi, Maharashtra, India
 
 <!--
 **kanganmane/kanganmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
