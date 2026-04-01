@@ -1,5 +1,5 @@
 ## Hi, I am Kangan Mane 👋
-- I am a undergraduate Computer Engineering Student at RIT
+- I am an undergraduate Computer Engineering Student at RIT
 - Currenty, I'm learning Machine Learning.
 - 😄 My pronouns are she/her.
 - 📫 kanganmane16@gmail.com | Rukadi, Maharashtra, India
