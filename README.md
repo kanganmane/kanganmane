@@ -1,4 +1,4 @@
-## Hi, I am Kangan Mane 👋
+# Hi, I am Kangan Mane 👋
 - I am an undergraduate Computer Engineering Student at RIT
 - Currenty, I'm learning Machine Learning.
 - 😄 My pronouns are she/her.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Socials:
+# Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kanganmane16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanganmane) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanganmane16@gmail.com) 
 
 # Tech Stack:
